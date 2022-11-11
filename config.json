@@ -1,7 +1,7 @@
 {
   "APIs": {
     "zenz": "https://zenzapis.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "09e9ab708f"
   },
   "options": {
     "autoRead": true,
@@ -10,13 +10,13 @@
     "limitGame": 20
   },
   "exif": {
-    "packname": "zenzapi",
-    "author": "https://zenzapi.xyz"
+    "packname": "lync",
+    "author": "60102810046"
   },
   "owner": [
-    "94761539856", 
-    "replase-your-numb"
+    "60102810046", 
+    "Aiman"
   ],
-  "timezone": "Asia/Jakarta",
-  "footer": "Powered by https://zenzapis.xyz"
+  "timezone": "Asia/Kuala_Lumpur",
+  "footer": "Powered by lync"
 }
